@@ -2,7 +2,7 @@
 
 # Чеклист перед отправкой
 <details>
-  <summary>:grey_question: Возник вопрос? </summary>
+  <summary>:grey_question: Возникли трудности? </summary>
   
   ## Heading
   1. A numbered
