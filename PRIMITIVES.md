@@ -114,8 +114,8 @@ public class Main {
   
 </details>
 
-<details>
-  <summary>:straight_ruler: Отформатирован код</summary>
+<details open>
+  <summary>:straight_ruler: Отформатирован код :new:</summary>
   
   Кроме правил, нарушение которых приводит к ошибкам компиляции, есть ещё и [правила форматирования кода](https://google.github.io/styleguide/javaguide.html), соблюдение которых обязательно при напиании программ.
   
