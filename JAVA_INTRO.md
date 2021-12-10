@@ -83,7 +83,7 @@ public class Main {
 }
 ```
 
-Для анализа этой программы, сперва установите бесплатную версию идеи (Community version) с [официальной страницы](https://www.jetbrains.com/idea/download).
+Для анализа этой программы, сперва [установите](https://github.com/netology-code/javaqa-homeworks/blob/master/intro/idea.md) бесплатную версию идеи (Community version) с [официальной страницы](https://www.jetbrains.com/idea/download).
 
 Создайте пустой проект на основе 11й джавы (идея её может скачать сама, если вы в меню выбора джавы выберите `Download JDK`).
 
