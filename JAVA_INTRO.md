@@ -87,19 +87,17 @@ public class Main {
 
 Для анализа этой программы:
 
-1. Сначала [установите](https://github.com/netology-code/javaqa-homeworks/blob/master/intro/idea.md) бесплатную версию идеи (Community version) с [официальной страницы](https://www.jetbrains.com/idea/download).
+1. [Установите](https://github.com/netology-code/javaqa-homeworks/blob/master/intro/idea.md) бесплатную версию идеи (Community version) с [официальной страницы](https://www.jetbrains.com/idea/download).
 2. Создайте пустой проект на основе Java 11 (идея её может скачать сама, если вы в меню выбора  Java выберите `Download JDK`).
 3. Создайте класс Main с содержимым из кода выше.
 4. Нажмите на кнопку запуска программы. Она должна запуститься, вывести информацию на экран и завершиться.
 5. Закоммитьте и запушьте ваш проект в публичный репозиторий на гитхабе.
 6. Проанализируйте код и вывод программы. Найдите в них дефект(ы). Менять код программы не нужно.
-7. Оформите баг-репорт с помощью Github Issues, описывающий найденный дефект по шаблону из примера:
+7. Оформите баг-репорт с помощью Github Issues, описывающий найденный дефект по шаблону из [примера](https://github.com/netology-code/javaqa2-homeworks/issues/2)
 
-## Формат оформления баг-репорта
+### Формат оформления баг-репорта
 
 ![image](https://user-images.githubusercontent.com/53707586/145558346-22631529-597a-4332-951f-ec1cf550c701.png)
-
-Что должно получиться в итоге: [Пример оформления](https://github.com/netology-code/javaqa2-homeworks/issues/2).
 
 Несколько комментариев к формату
 * И в .md-файлах, и внутри описания баг-репортов используется [формат Markdown](https://www.markdownguide.org/basic-syntax/).
