@@ -87,7 +87,7 @@ public class Main {
 
 Для анализа этой программы:
 
-1. [Установите](https://github.com/netology-code/javaqa-homeworks/blob/master/intro/idea.md) бесплатную версию идеи (Community version) с [официальной страницы](https://www.jetbrains.com/idea/download).
+1. [Установите](https://github.com/netology-code/javaqa-homeworks/blob/master/intro/idea.md) бесплатную версию идеи (Community version) с [официальной страницы](https://www.jetbrains.com/idea/download) (можно без установки Toolbox что в инструкции, можно просто скачать по второй ссылке этого пункта и установить напрямую).
 2. Создайте пустой проект на основе Java 11 (идея её может скачать сама, если вы в меню выбора  Java выберите `Download JDK`).
 3. Создайте класс Main с содержимым из кода выше.
 4. Нажмите на кнопку запуска программы. Она должна запуститься, вывести информацию на экран и завершиться.
