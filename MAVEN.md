@@ -233,7 +233,7 @@ public class BonusServiceTest {
 Поэтому он обратился к вам.
 
 Ваша задача:
-1. Взять проект, который прикреплён в архиве [`bonus-service.zip`](artifacts/bonus-service.zip)
+1. Взять проект, который прикреплён в архиве [`bonus-service.zip`](https://github.com/netology-code/javaqa2-homeworks/blob/main/files/bonus-service.zip?raw=true)
 1. Открыть его как Maven проект в IDEA
 1. Запустить следующую команду Maven*: `mvn clean compile spotbugs:check` (ваш коллега не может объяснить, что это значит, но говорит, что запускать нужно именно так)
 1. Проанализировать логи, выяснить в чём ошибка (воспользуйтесь гуглом по типу ошибки и чтением документации)
