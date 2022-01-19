@@ -149,7 +149,7 @@
 </details>
 
 <details open>
-  <summary>Настроен CI с maven verify и JaCoCo :new:</summary>
+  <summary>5. Настроен CI с maven verify и JaCoCo :new:</summary>
   
   #### CI
   После связывания локального репозитория с удалённым и первого пуша в заготовки проекта, время настроить CI на основе Github Actions. Шаблон вашего maven.yml должен выглядеть вот так, убедитесь что всё совпадает с вашим шаблоном (например, что вы указали фазу `verify`, а не `package`):
