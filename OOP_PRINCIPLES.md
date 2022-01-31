@@ -277,14 +277,15 @@ public class Post {
 public class Main {
     public static void main(String[] args) {
         Post post = new Post();
-        post.name = "Petya";
+        post.name = "Иван";
         // заполните другие поля
     }
 }
 ```
 
 Поставим точку останова на последней строчке, можно прямо на закрывающей фигурной скобке `main`, и запустим отладчик, чтобы посмотреть что у нас будет лежать в переменной с объектом:
-![My First Board - Frame 13](https://user-images.githubusercontent.com/53707586/151745971-5628da5e-e40d-4d16-a1e1-d293afdc8af4.jpg)
+![My First Board - Frame 14](https://user-images.githubusercontent.com/53707586/151747800-bbd79552-0f62-4105-90fa-b0d7df7dbce6.jpg)
+
 
 Если вы сделали всё правильно, то в отладчике будет виден созданный и заполненный объект типа `Post` по схеме данных (полей), указанных вами в классе `Post`.
 
