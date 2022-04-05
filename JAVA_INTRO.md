@@ -96,6 +96,11 @@ public class Main {
 7. Оформите баг-репорт с помощью Github Issues, описывающий найденный дефект по шаблону из [примера](https://github.com/netology-code/javaqa2-homeworks/issues/2).
 
 ### Формат оформления баг-репорта
+Наша цель получить такой [баг-репорт](https://github.com/netology-code/javaqa2-homeworks/issues/2):
+
+![image](https://user-images.githubusercontent.com/53707586/161832746-1c6c42d0-4d64-4d1d-9b05-47b80a3f4a25.png)
+
+Это можно сделать написав следующее:
 
 ![image](https://user-images.githubusercontent.com/53707586/145558346-22631529-597a-4332-951f-ec1cf550c701.png)
 
