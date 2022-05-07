@@ -317,4 +317,4 @@ public class TicketByPriceAscComparator implements Comparator<Ticket> {
 
 Если автотесты в ветке проходят - делаете Pull Request на слияние в основную ветку (сливать не нужно).
 
-Итого: отправьте на проверку ссылку на гитхаб-репозиторий с вашим проектом. 
+Итого: отправьте на проверку ссылку на Pull Request ветки fast. 
